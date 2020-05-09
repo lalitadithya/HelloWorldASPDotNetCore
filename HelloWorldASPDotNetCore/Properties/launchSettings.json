@@ -23,6 +23,13 @@
       },
       "applicationUrl": "http://localhost:5000"
     },
+    "Azure Dev Spaces": {
+      "commandName": "AzureDevSpaces",
+      "launchBrowser": true,
+      "resourceGroup": "rg-azure-dev-spaces",
+      "aksName": "aks-azure-dev-spaces",
+      "subscriptionId": ""
+    },
     "Docker": {
       "commandName": "Docker",
       "launchBrowser": true,
